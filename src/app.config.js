@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'GCP Cohart';
+    team = 'GCP Cohart of Deloitte';
     version = '1.0.0';
 }
 module.exports = AppConfig;
